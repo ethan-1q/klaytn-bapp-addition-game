@@ -8,6 +8,11 @@ node v14.17.2
 ```
 npm install
 ```
+# 컨트랙트 배포
+```
+truffle deploy --network klaytn
+truffle deploy --compile-all --reset --network klaytn // 재배포
+```
 # 실행
 ```
 npm run dev
