@@ -4,18 +4,18 @@
 npm 6.14.13
 node v14.17.2
 ```
-# 세팅
+## 세팅
 ```
 npm install
 ```
-# 컨트랙트 배포
+## 컨트랙트 배포
 ```
 truffle deploy --network klaytn
 truffle deploy --compile-all --reset --network klaytn // 재배포
 ```
-# 실행
+## 실행
 ```
 npm run dev
 ```
-# 접속
+## 접속
 http://localhost:8080
